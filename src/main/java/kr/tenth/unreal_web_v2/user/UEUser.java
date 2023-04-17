@@ -16,6 +16,4 @@ public class UEUser {
     private Long id;
     private String email;
     private String password;
-
-    // 생성자, 게터, 세터, equals(), hashCode() 메서드
 }

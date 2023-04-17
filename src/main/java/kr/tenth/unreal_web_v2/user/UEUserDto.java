@@ -13,6 +13,4 @@ public class UEUserDto {
         INVALID_EMAIL,
         INVALID_PASSWORD
     }
-
-    // 생성자, 게터, 세터
 }
